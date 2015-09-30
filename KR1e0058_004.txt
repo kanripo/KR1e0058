@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋提綱
-#+DATE: 2015-09-23 09:39:55
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:14:51.960434
+#+PROPERTY: ID KR1e0058
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1e0058_WYG_004-1a>¶
 欽定四庫全書¶
 　春秋提綱卷四　　　　　宋　陳則通　撰¶
@@ -344,4 +346,3 @@
 (齊伐/宋)晉魯之大夫强而列國之大夫强春秋不可復制¶
 吁豈大夫之辠哉豈大夫之辠哉¶
 　春秋提綱卷四¶
-

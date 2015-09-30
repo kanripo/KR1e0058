@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋提綱
-#+DATE: 2015-09-23 09:39:55
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:14:51.990255
+#+PROPERTY: ID KR1e0058
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1e0058_WYG_006-1a>¶
 欽定四庫全書¶
 　春秋提綱卷六　　　　　宋　陳則通　撰¶
@@ -308,4 +310,3 @@
 嗚呼齊孝宋襄啓楚者也晉文啓秦者也景厲悼¶
 啓呉者也平以伯授楚者也悲夫齊桓之不復見也¶
 　春秋提綱卷六¶
-
